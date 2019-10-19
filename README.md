@@ -11,6 +11,6 @@ Controls:
 
   -Left click basic attack
 
-  -right click special attack
+  -Right click special attack
   
   
